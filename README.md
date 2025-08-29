@@ -1,6 +1,6 @@
 # Hi, I'm ZeroAs (泠漪)
 
-**Danmaku Enthusiast | Game Developer | Reverse Engineering Hobbyist**
+**Danmaku Enthusiast | Game Developer**
 
 ---
 
