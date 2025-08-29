@@ -8,16 +8,13 @@
 - Focused on **C# / Unity** development, ranging from game engines to developer tools
 - Passionate about danmaku (bullet-hell) games, currently building my own danmaku engine
 - Interested in reverse engineering, performance optimization, and physical simulations
-- Contributor to multiple open-source projects and game remakes
 
 ---
 
 ## Tech Stack
-- **Languages**: C#, JavaScript, TypeScript, HTML/CSS, Python, Pascal, PHP, C++, Java
-- **Frameworks / Tools**: Unity, .NET Core, Inno Setup, Harmony, Burst, FastScriptReload
+- **Languages**: C#, JavaScript, TypeScript, HTML/CSS
 - **Specialties**:
   - Game engine development and remakes
-  - Unity hot-reload and replay systems
   - Physics simulation and performance tuning
   - Cross-platform tools and scripts
 
