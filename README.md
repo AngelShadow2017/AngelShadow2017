@@ -30,14 +30,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelShadow2017&layout=compact&theme=default)
 
 ---
-
-## Highlights
-- Over 470 contributions in the past year
-- Active in more than 10 public repositories
-- GitHub Pro member
-
----
-
-## Contact
-- Email: *(your email here)*
-- Portfolio / Blog: *(optional)*
